@@ -12,13 +12,13 @@ You can use CrabOS without CrabVisor. Install both when you want that sandbox.
 
 ### CrabOS
 
-- macOS Apple Silicon: `CrabOS-0.9.0-mac-arm64.dmg`
-- Windows x64: `CrabOS-0.9.0-win-x64.exe`
+- macOS Apple Silicon: `CrabOS-0.10.1-mac-arm64.dmg`
+- Windows x64: `CrabOS-0.10.1-win-x64.exe`
 
 ### CrabVisor
 
-- macOS Apple Silicon: `CrabVisor-0.9.0-mac-arm64.dmg`
-- Windows x64: `CrabVisor-0.9.0-win-x64.exe`
+- macOS Apple Silicon: `CrabVisor-0.10.1-mac-arm64.dmg`
+- Windows x64: `CrabVisor-0.10.1-win-x64.exe`
 
 ## macOS install
 
